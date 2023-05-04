@@ -1,3 +1,10 @@
 python -m django startproject mysite
+python -m django startproject register
 
-#Register not avaible at the moment - to be fixed
+
+django
+django-crispy-forms
+crispy-bootstrap4
+
+# Run 
+python manage.py runserver
