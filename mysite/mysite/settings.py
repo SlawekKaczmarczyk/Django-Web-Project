@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     "crispy_bootstrap4",
 ]
 
-AUTH_USER_MODEL = "register.CustomUser"
+#AUTH_USER_MODEL = "register.CustomUser"
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
