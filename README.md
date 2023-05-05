@@ -1,10 +1,8 @@
-python -m django startproject mysite
-python -m django startproject register
-
-
-django
-django-crispy-forms
-crispy-bootstrap4
+# Installations
+pip install django
+pip install django-crispy-forms
+pip install crispy-bootstrap4
 
 # Run 
+cd mysite/
 python manage.py runserver
